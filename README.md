@@ -17,4 +17,6 @@ Make sure Python 3 is installed.
 ### Run Basic Version
 ```bash
 python basic-version/validator.py
+### Run Function-Based Version
+python function-version/validator.py
 
