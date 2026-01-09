@@ -20,7 +20,9 @@ Make sure Python 3 is installed.
 python basic-version/validator.py
 ```
 
-###Run Function-Based Version
-``bash
+### Run Function-Based Version
+```bash
 python function-version/validator.py
-``
+```
+
+
