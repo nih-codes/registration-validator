@@ -12,11 +12,15 @@ A Python-based console application that validates user registration details such
 - Python 3
 
 ## How to Run
+
 Make sure Python 3 is installed.
 
 ### Run Basic Version
 ```bash
 python basic-version/validator.py
-### Run Function-Based Version
-python function-version/validator.py
+```
 
+###Run Function-Based Version
+``bash
+python function-version/validator.py
+``
